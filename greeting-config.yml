@@ -4,11 +4,6 @@ security:
 
 management:
   security:
-  basic:
-    enabled: false
-
-management:
-  security:
     enabled: false
 
 logging: # <----New sections below
